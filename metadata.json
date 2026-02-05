@@ -1,0 +1,10 @@
+
+{
+  "name": "GigNexus",
+  "description": "Next-generation freelancing platform powered by Gemini AI. Connects talent with opportunity using advanced AI tools for matching, strategy, and communication.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
